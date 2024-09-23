@@ -1,5 +1,5 @@
 # app.py
-# This is a test commiting
+# This is a test commited
 def add(a, b):
     return a + b
 
